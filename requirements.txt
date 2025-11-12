@@ -1,0 +1,14 @@
+
+numpy
+scipy               
+pandas
+matplotlib
+seaborn
+plotly
+jupyterlab
+ipykernel
+notebook
+streamlit           
+pytest              
+black            
+flake8            
